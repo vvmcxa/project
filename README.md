@@ -5,4 +5,4 @@ umur	:17
 jurusan	: TKJ
 belajar	:git
 hoby	:gk tau
-
+TTL	:malang,05-07-02

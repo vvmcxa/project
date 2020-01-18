@@ -3,3 +3,6 @@ nama	:Vachel Valeno M
 alamat	:Singopolo Kauman bangil
 umur	:17
 jurusan	: TKJ
+belajar	:git
+hoby	:gk tau
+
